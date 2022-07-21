@@ -14,5 +14,5 @@ Print the treaded lifters in something strong. I prefer CF nylon or CF PC, 100% 
 I have tried resin (siraya-tech blue + tenacious), however these resins become brittle in the cold and will crack (even at 100% tenacious mix). FDM is the way to go. 
 
 ## Links
-Join the tech-ski discord: technicalski.com 
+Join the tech-ski discord: technicalski.com \
 My YT channel: https://www.youtube.com/c/nSkier
