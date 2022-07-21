@@ -7,9 +7,9 @@
 Use with 3mm or 5mm treaded lifters (provided). In case one boot requires canting and the other does not, use the 0deg_normal lifter to maintain stack height (Heluvaskier's idea). Open the .step file to create custom plates from a template. Boot lugs must be routed back to DIN spec.
 
 ## 3d printing instructions
-Print the treaded lifters in something strong. I prefer CF nylon or CF PC, 100% density. Canted plates can be printed in PLA. 
+Print the treaded lifters in something strong. I prefer CF nylon or CF PC, 100% density (the lifters can easily last a season). Canted plates can be printed in PLA, but I prefer using the tougher material.  
 
-I have tried resin (siraya-tech blue + tenacious), however these resins become brittle in the cold and will crack (even at 100% tenacious mix). FDM is the way to go. 
+I have tried engineering resin (siraya-tech blue + tenacious), however these resins become brittle in the cold and will crack (even at 100% tenacious). FDM is the way to go for this application. 
 
 ## Links
 Join the tech-ski discord: www.technicalski.com \
