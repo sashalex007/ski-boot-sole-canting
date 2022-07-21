@@ -4,9 +4,7 @@
 
 ### Ski boot canting system for ISO standard ski boots. Height normalized for plate interchangeability. 
 
-Use with 3mm or 5mm treaded lifters (provided). In case one boot requires no canting, use the 0deg normalized lifter to maintain stack consistency. Open the .step file to create custom plates from a template. 
-
-Boot lugs will need to be routed back to DIN spec.
+Use with 3mm or 5mm treaded lifters (provided). In case one boot requires canting and the other does not, use the 0deg_normal lifter to maintain stack height (Heluvaskier's idea). Open the .step file to create custom plates from a template. Boot lugs must be routed back to DIN spec.
 
 ## 3d printing instructions
 Print the treaded lifters in something strong. I prefer CF nylon or CF PC, 100% density. Canted plates can be printed in PLA. 
